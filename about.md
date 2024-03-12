@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### これは？
 
-### More Information
+k西さんが色々書いていくところです
 
-A place to include any other types of information that you'd like to include about yourself.
+### k西について
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- ファミコンが発売された年に生まれました
+- 2022年1月からプロダクトマネージャーやってます
+- 非エンジニア出身なのでせめて形だけでもとgithubに慣れようとしてます
+- なのでけっこう日々の仕事にまつわることを書いていきそうです
+- プライベートだと趣味でランニングやってます
+- かれこれ4年以上続いていて、今は年に2回ぐらいのペースでフルマラソンの大会に出場してます
+- なのでけっこう走ることにまつわることも書いていきそうです
